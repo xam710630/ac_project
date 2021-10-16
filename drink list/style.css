@@ -1,0 +1,35 @@
+.col-md-4, .col-md-8 {
+    outline: 1px solid steelblue;
+    min-height: 600px;
+  }
+
+.container {
+    background-color: rgb(80, 80, 80);
+    border-radius: 3px;
+}
+
+h2{
+    color: blanchedalmond;
+}
+
+[data-alpha-pos="delete-drink"] {
+    display: inline-block;
+    text-align: center;
+    color: #999;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    line-height: 1;
+}
+
+[data-alpha-pos="delete-drink"] {
+    display: inline-block;
+    text-align: center;
+    color: #999;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    line-height: 1;
+}
